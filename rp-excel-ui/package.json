@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "bk-magic-vue": "^2.1.7-beta.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.6.6",
     "vue-router": "^3.0.2",
     "vue-ueditor-wrap": "^2.4.1",
